@@ -149,8 +149,8 @@ Make sure the following tools are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd RNAEP-PROJEKAT-AI_VIRTUELNA_GALERIJA_2025_3273
+git clone https://github.com/aleksandra-milikic/rnaep-projekat-ai_virtuelna_galerija_2025_3273.git
+cd rnaep-projekat-ai_virtuelna_galerija_2025_3273
 ```
 
 ### 2. Install Dependencies
